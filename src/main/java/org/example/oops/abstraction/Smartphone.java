@@ -38,4 +38,5 @@ public class Smartphone extends Camera implements Speaker, Wifi {
     //Speaker and Wifi (interfaces) also declare a default info() method.
     //
     //Your class Smartphone extends Camera and implements Speaker, Wifi.
+
 }
